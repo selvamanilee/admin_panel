@@ -1,0 +1,7 @@
+{
+  "name": "Admin.Panel.Project.WebUI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
